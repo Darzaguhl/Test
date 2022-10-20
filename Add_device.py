@@ -1,5 +1,4 @@
 #!/usr/bin/env test
-awda
 
 import time
 import requests
